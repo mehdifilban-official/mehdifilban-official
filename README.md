@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mehdifilban-official
 - 👀 I’m interested in JS
 - 🌱 I’m currently learning React And Node.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on JS PROJECTS
 - 📫 How to reach me mehdifilban.official@gmail.com
 
 <!---
