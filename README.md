@@ -8,8 +8,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="">
 <a href="https://github.com/mehdifilban-official">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hijal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hijal&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mehdifilban-official&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mehdifilban-official&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <hr />
