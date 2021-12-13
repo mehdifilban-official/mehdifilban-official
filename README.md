@@ -6,13 +6,9 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p align="">
-<a href="https://github.com/mehdifilban-official">
-  ![MehdiFilban's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdifilban-official&show_icons=true)
+| <a href="https://github.com/mehdifilban-official/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdifilban-official&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="mehdifilban's github stats" /></a> | <a href="https://github.com/mehdifilban-official/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdifilban-official&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mehdifilban-official&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 <hr />
 
 <!---
